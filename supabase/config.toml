@@ -1,0 +1,3 @@
+[functions.send-ticket-notification]
+verify_jwt = true
+entrypoint = "./functions/send-ticket-notification/index.ts"

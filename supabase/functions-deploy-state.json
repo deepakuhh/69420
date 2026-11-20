@@ -1,0 +1,9 @@
+{
+  "projectId": "73017223",
+  "functions": {
+    "send-ticket-notification": {
+      "hasChanged": false,
+      "hash": "1e9308ce6ba21105634c956493ae64e82ca2ca2451c3baf2b0ffb77aff5df7c2"
+    }
+  }
+}
